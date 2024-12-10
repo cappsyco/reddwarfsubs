@@ -340,7 +340,7 @@ What's happened to him?
 
 76
 00:05:58,301 --> 00:06:02,818
-- He's turned into Brannigan the ship's psychiatrist.
+- He's turned into Brannigan, the ship's psychiatrist.
 - We'd better get him fixed.
 
 77
@@ -466,7 +466,7 @@ Alright, keep your hair on.
 
 104
 00:07:46,101 --> 00:07:51,414
-He's out to lunch, breakfast, dinner, tes, supper, the lot!
+He's out to lunch, breakfast, dinner, tea, supper, the lot!
 He's not in for a single meal, if you ask me.
 
 105
@@ -545,8 +545,8 @@ That's a poor IQ for a glass of water!
 
 121
 00:08:47,941 --> 00:08:52,538
-How come he knows all the answer to questions about science
-and space and that when we ask him?
+How come he knows all the answers to questions 
+about science and space and that when we ask him?
 
 122
 00:08:52,621 --> 00:08:55,295
@@ -747,11 +747,12 @@ about it. He went to see a priest.
 
 164
 00:11:54,461 --> 00:11:58,341
-The priest told him. He said it was alright and all that, and that the shoes were happy and that they had gone to heaven.
+The priest told him. He said it was alright and all that, 
+and that the shoes were happy and that they had gone to heaven.
 
 165
 00:11:58,365 --> 00:12:01,420
-You see, it turns out shoes have "souls".
+You see, it turns out shoes have soles.
 
 166
 00:12:02,421 --> 00:12:05,971
@@ -869,7 +870,7 @@ Queeg! He's making me fit!
 
 192
 00:13:57,421 --> 00:14:01,813
-What are you doing?! Trunk curls, God no!
+What are you doing?! Trunk curls, God, no!
 My stomach won't take it! It's too flabby!
 
 193
@@ -900,7 +901,7 @@ My stomach won't take it! It's too flabby!
 198
 00:14:13,141 --> 00:14:19,057
 I want control of my own body back! Three more
-hours is going to kill me! I'm going to faint!
+miles is going to kill me! I'm going to faint!
 
 199
 00:14:21,301 --> 00:14:24,692
@@ -1020,7 +1021,7 @@ Just imagine the floor's Queeg's face.
 
 224
 00:16:20,421 --> 00:16:22,219
- (BOTH SPIT)
+(BOTH SPIT)
 
 225
 00:16:22,621 --> 00:16:26,410
@@ -1452,13 +1453,13 @@ I've been seeing her behind your back.
 
 319
 00:22:50,061 --> 00:22:53,531
-The product-moment correlation of vx/dy
+The product-moment correlation of VX/DY
 minus the sum of the set P
 
 320
 00:22:53,621 --> 00:22:59,094
-all over the sum of r, given that r is a ratio
-of p/s where k is a constant and s is an integer variable.
+all over the sum of R, given that R is a ratio
+of P/S where K is a constant and S is an integer variable.
 
 321
 00:22:59,181 --> 00:23:01,900
@@ -1526,8 +1527,8 @@ Oh, my God.
 
 335
 00:23:55,821 --> 00:23:58,893
-The loser will be erased, terminated,
-oblivionised,
+The loser will be erased, 
+terminated, oblivionised.
 
 336
 00:23:58,981 --> 00:24:02,337
