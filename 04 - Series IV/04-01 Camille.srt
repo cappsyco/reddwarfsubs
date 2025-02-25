@@ -464,7 +464,7 @@ Oh, damn my programming!
 
 102
 00:06:09,040 --> 00:06:11,077
-Not back yet? They've been hours.
+They're not back yet? They've been hours.
 
 103
 00:06:11,280 --> 00:06:13,794
@@ -501,7 +501,7 @@ of Marlon Brando.
 
 110
 00:06:33,440 --> 00:06:35,750
-Whatever happened to old Hammy?
+Whatever happened-whatever happened to old Hammy?
 
 111
 00:06:35,920 --> 00:06:39,231
@@ -538,7 +538,7 @@ Thanks a smegging buncharoony.
 
 118
 00:06:58,720 --> 00:07:02,953
-- Rimmer, where are you?
+- Rimmer, where ARE you?
 - That idiot droid has endangered this entire vessel
 
 119
@@ -943,7 +943,7 @@ Duke?
 205
 00:12:24,060 --> 00:12:26,710
 Yes, well they don't call me
-Duke, not absolutely all the time.
+Duke absolutely all the time.
 
 206
 00:12:26,880 --> 00:12:30,510
@@ -1190,7 +1190,7 @@ And they say romance is dead.
 258
 00:15:51,400 --> 00:15:55,951
 Hey, the prospect of making love to a complete and
-total stranger is just as galling to me, yknow?
+total stranger is just as galling to me, y'know?
 
 259
 00:15:56,160 --> 00:16:00,154
@@ -1408,7 +1408,7 @@ It was all a mighty bit too strange.
 
 304
 00:19:04,400 --> 00:19:09,190
-I mean. actually meeting someone who didn't want to
+I mean, actually meeting someone who didn't want to
 vomit all over me in complete loathing and disgust.
 
 305
@@ -1640,7 +1640,7 @@ don't wait up!
 
 355
 00:22:30,000 --> 00:22:33,834
-- Could we make it, you and I?
+- Do you think we could make it, you and I?
 - It's the old, old story.
 
 356

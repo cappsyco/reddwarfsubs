@@ -207,7 +207,7 @@ I've seen those movies.
 46
 00:03:42,127 --> 00:03:44,589
 It's always the guy in the lead who
-always buys it first. You take the front.
+buys it first. You take the front.
 
 47
 00:03:44,760 --> 00:03:47,445
@@ -392,7 +392,7 @@ I got you into this, I'll get you out.
 
 86
 00:06:16,040 --> 00:06:19,795
-- Get Kryten?!
+- Get Kryten!
 - Relax, would you? I know what I'm doing.
 
 87
@@ -1037,7 +1037,7 @@ I won't be made of dandruff.
 225
 00:15:57,134 --> 00:16:01,079
 My body will be recreated from the genetic
-pattern contained in it's structure.
+pattern contained in its structure.
 
 226
 00:16:01,280 --> 00:16:03,999
@@ -1301,7 +1301,7 @@ Hey, I've been busy.
 280
 00:19:30,520 --> 00:19:34,991
 Aye, busy swankin' round with his new central
-nervous, and his poncey new eight-valve heart,
+nervous system, and his poncey new eight-valve heart,
 
 281
 00:19:35,160 --> 00:19:37,959
@@ -1500,7 +1500,7 @@ And no bad thing. Let's do it.
 
 324
 00:22:11,520 --> 00:22:15,593
-Kryten, there was a cartoon character once called Popeye
+Kryten, there was a cartoon character once called Popeye,
 said a really profound thing.
 
 325
