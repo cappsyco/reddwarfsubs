@@ -476,7 +476,7 @@ This machine simply rewrites the DNA program.
 104
 00:07:29,760 --> 00:07:35,438
 So this machine can transform any living thing
-into any other living thing, by altering it's molecular structure?
+into any other living thing, by altering its molecular structure?
 
 105
 00:07:35,640 --> 00:07:38,598
